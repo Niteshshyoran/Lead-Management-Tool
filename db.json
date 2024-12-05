@@ -1,0 +1,7 @@
+{
+    "leads": [
+      { "id": 1, "name": "John Doe", "email": "john@example.com", "status": "new" },
+      { "id": 2, "name": "Jane Doe", "email": "jane@example.com", "status": "converted" }
+    ]
+  }
+  
